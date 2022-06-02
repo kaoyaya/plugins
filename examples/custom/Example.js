@@ -1,7 +1,7 @@
 
 import React, {PureComponent} from 'react';
 import {ScrollView} from 'react-native';
-import HTML from 'react-native-render-html';
+import HTML from 'react-native-render-html-kyy';
 import { IGNORED_TAGS, alterNode, makeCustomTableRenderer } from 'react-native-render-html-table-bridge';
 import Snackbar from 'react-native-snackbar';
 import ClickTable from './ClickTable';

@@ -1,4 +1,4 @@
-import { HtmlAttributesDictionary, HTMLNode, HTMLTagNode } from 'react-native-render-html'
+import { HtmlAttributesDictionary, HTMLNode, HTMLTagNode } from 'react-native-render-html-kyy'
 import forEachObjIndexed from 'ramda/es/forEachObjIndexed'
 import strigifyEntities from 'stringify-entities'
 

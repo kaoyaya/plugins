@@ -1,5 +1,5 @@
 import React, { ComponentType } from 'react'
-import { RendererDeclaration } from 'react-native-render-html'
+import { RendererDeclaration } from 'react-native-render-html-kyy'
 import HTMLTable, { TableConfig, HTMLTablePropsWithStats } from './HTMLTable'
 
 export function makeTableRenderer(tableConfig: TableConfig): RendererDeclaration {
@@ -20,7 +20,7 @@ export function makeTableRenderer(tableConfig: TableConfig): RendererDeclaration
 }
 
 /**
- * 
+ *
  * @param TableComponent A component which will receive `HTMLTablePropsWithStats` props.
  * @see HTMLTablePropsWithStats
  */
